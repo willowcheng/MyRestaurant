@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Restaurant</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Director Info</string>
+    <string name="director_name">LIU CHENG</string>
+    <string name="phone_info">+1 (613)261-6094</string>
+    <string name="mail_info">lchen156@uOttawa.ca</string>
+    <string name="website_info">willowcheng.postach.io</string>
+    <string name="title_activity_third">Food Menu</string>
+    <string name="title_activity_fourth">Log In</string>
+    <string name="restaurant_description">Peng Lai Restaurant offers delicious Chinese food and gives priority of high quality service.</string>
+
+</resources>

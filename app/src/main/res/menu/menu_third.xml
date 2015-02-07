@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_restaurant"
+        android:orderInCategory="100"
+        android:title="Restaurant"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_director"
+        android:orderInCategory="100"
+        android:title="Director"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/action_login"
+        android:icon="@drawable/ic_human_child_white_36dp"
+        android:orderInCategory="100"
+        android:title="Login"
+        app:showAsAction="ifRoom" />
+</menu>
